@@ -1,0 +1,2 @@
+# 中文显示
+`git config --global core.quotepath false`
