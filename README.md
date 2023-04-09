@@ -9,7 +9,7 @@
 
 ### 网络编程部分
 
-1.  ✅ . 学习完docker in action 2e，在macos上熟练使用docker
+1.  ✅ 学习完docker in action 2e，在macos上熟练使用docker
 2. 阅读unix-linux编程实践教程
 3. 学习完[网络编程基础](https://github.com/riba2534/TCP-IP-NetworkNote)
 4. 阅读完linux-unix系统编程手册
@@ -30,21 +30,23 @@
 6. 看完APUE
 7. 完成thu ucore实验
 8. 阅读TAOUP（这本书文风极佳，很对我胃口）
-9. go语言学习[前置](https://golang.design/) 以及著名的gopl
-10. 重读google经典三篇，完成6.5810课设
-11. 看一看分布式的博客(https://dunwu.github.io/blog/categories/%E5%88%86%E5%B8%83%E5%BC%8F/)
+9. 阅读gopl
+10. 深入理解go语言(https://golang.design/)
+11. 重读google经典三篇，完成6.5810课设
+12. 看一看分布式的博客(https://dunwu.github.io/blog/categories/%E5%88%86%E5%B8%83%E5%BC%8F/)
 
 ## 语言相关
 
-1. ✅先过掉[cppp5e](https://github.com/applenob/Cpp_Primer_Practice)
+1. ✅ 先过掉[cppp5e](https://github.com/applenob/Cpp_Primer_Practice)
 2. 知识小补充[things](https://github.com/Light-City/CPlusPlusThings)
-3. ✅再过掉jjhou老师的课程[jjhou](https://github.com/harvestlamb/Cpp_houjie)
+3. ✅ 再过掉jjhou老师的课程[jjhou](https://github.com/harvestlamb/Cpp_houjie)
 4. 阅读debugger这书，也就是debug的艺术，[快速上手gdb](https://beej.us/guide/bggdb/)
 5. 阅读cs106l reader
-6.  ✅modern c++ 新特性(https://github.com/changkun/modern-cpp-tutorial)
-7. 还有我那一堆侯老师翻译的巨著...想着就头皮发麻
+6.  ✅ modern c++ 新特性(https://github.com/changkun/modern-cpp-tutorial)
+7. 阅读《深入探索c++对象模型》
 8. 阅读STL源码剖析
 9. 模板元编程[template](https://github.com/wuye9036/CppTemplateTutorial)
+10. ✅ C++ Concurrency in Action 2e 
 
 ## 数据库
  
