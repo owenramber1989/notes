@@ -66,7 +66,7 @@
 5. 搜狗c++服务器引擎[workflow](https://github.com/sogou/workflow/blob/master/README_cn.md)
 
 ## 可以经常逛的网站
-1. [ddia](https://vonng.gitbook.io/vonng/) 非常好的一本书
+1. ✅[ddia](https://vonng.gitbook.io/vonng/) 非常好的一本书
 2. [面试题](https://osjobs.net/)
 3. [小林coding](https://xiaolincoding.com/)
 4. [c++面试题](https://github.com/chankeh/cpp-backend-reference/blob/master/back-end.md)
