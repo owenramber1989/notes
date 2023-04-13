@@ -1,4 +1,9 @@
 ... rest on untenable assumptions about ...
+
+Roll off the tongue" 是一个英语短语，用来形容某个词、短语或句子发音流畅、容易说出口。这通常表示该词或短语易于发音，不会让人觉得拗口或困难。这个短语常用于形容名字、口号或者其他需要人们容易记住和重复的词汇。例如，一个好的品牌名称通常应该是 "roll off the tongue" 的，使得人们更容易记住和提及它。
+
+Get oneself into a bind" 是一个英语习语，意味着陷入困境或困难的境地。这个表达通常用来描述一个人因为自己的决策、行为或失误而陷入了一个麻烦的、棘手的或令人不悦的情况。这个困境可能需要额外的努力、时间或资源来解决。这个短语可以用于各种情境，如金融困境、社交尴尬或工作上的问题。
+
 w/o without
 a far cry from 与...差别迥异
 cement concepts into memory
