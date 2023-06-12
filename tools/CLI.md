@@ -50,3 +50,16 @@ history | grep -w wd
 date可以指定格式
 
 ![[Pasted image 20230612101753.png]]
+
+产生数字序列
+
+![[Pasted image 20230612102103.png]]
+
+![[Pasted image 20230612102930.png]]
+
+打印字段用awk最爽
+
+ls -l | awk '{print $2}' 就可以打印出被链接的次数了
+
+![[Pasted image 20230612165016.png]]
+进程替换
